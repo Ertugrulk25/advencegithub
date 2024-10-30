@@ -22,5 +22,7 @@ public class Runner {
 
         //tecspro4
         System.out.println("++++++++++5++");
+
+        //dev2 nin yaptiğı değişiklikler
     }
 }
