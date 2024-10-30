@@ -10,5 +10,7 @@ public class Runner {
         //versiyon3
         System.out.println("**********");
 
+        //tecspro
+        System.out.println("++++++++++++");
     }
 }
