@@ -12,5 +12,8 @@ public class Runner {
 
         //tecspro
         System.out.println("++++++++++++");
+
+        //tecspro2
+        System.out.println("++++++++++5++");
     }
 }
